@@ -1,0 +1,7 @@
+{
+  "name": "SynapseForge AI: Bio-Genetic Engineering & Analysis",
+  "description": "An AI-powered platform for bio-medical and genetic engineering analysis. Transform genetic data, cellular pathways, and molecular structures into detailed reports, research documentation, and innovative therapeutic proposals.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
